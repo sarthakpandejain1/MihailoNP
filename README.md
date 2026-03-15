@@ -48,8 +48,8 @@ I am an AI/ML Engineer specialized in the design and deployment of **Generative 
 
 ## ðŸ“Š Neural Vital Signs
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihailoNP&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihailoNP&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakpandejain1&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpandejain1&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
